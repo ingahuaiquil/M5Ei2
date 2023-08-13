@@ -14,7 +14,7 @@ import android.widget.RadioGroup;
 import com.example.fragmentguide0.databinding.FragmentQuestionBinding;
 
 
-public class QuestionFragment extends Fragment {
+public class  QuestionFragment extends Fragment {
     private FragmentQuestionBinding mBinding;
 
 
